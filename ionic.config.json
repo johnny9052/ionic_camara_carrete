@@ -1,5 +1,7 @@
 {
   "name": "ejemploCamaraCarrete",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
